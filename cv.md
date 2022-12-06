@@ -21,4 +21,5 @@ I worked as a business analyst for 2 years.
 MGTU Lingva
 
 ### Languages:
+Russian - Native
 English level - B2
